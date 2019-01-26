@@ -1,9 +1,9 @@
-- 新版本2.1.3更新提示
-- 2018-11-5 11:21
-- 新版本发布啦。已升级到React Native0.57.4版本，并改进左右翻页功能
+- 最新版本1.0.0
+- 2019-01-26
+- 第一次发布
 - 前往下载
-- https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/txsg.apk
-- true
+- https://www.baidu.com
+- false
 - 5000
 - false
 - ca-app-pub-4533308396777454/5937435545
