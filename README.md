@@ -2,7 +2,7 @@
 - 2019-01-27
 - 书荒神器致力于打造最清新简约的免费小说阅读器，本软件仅提供小说网页转码服务，请支持原作。
 - 前往下载
-- https://github.com/shsqi2019/NotificationData/blob/master/shsqi2019.apk
+- http://down.689.blue/app-release.apk
 - false
 - 5000
 - false
