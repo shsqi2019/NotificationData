@@ -1,8 +1,8 @@
-- 最新版本1.0.1
+- 最新版本1.0.2
 - 2019-01-27
 - 书荒神器致力于打造最清新简约的免费小说阅读器，本软件仅提供小说网页转码服务，请支持原作。
 - 前往下载
-- http://down.kikv.xyz/shsq.apk
+- http://down.lvcccc.top/shsq1.0.3.apk
 - false
 - 5000
 - false
